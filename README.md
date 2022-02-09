@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Im Trinh, Ph.D. student at Korea University.
 
 <!--
 **timmyvg/timmyvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
