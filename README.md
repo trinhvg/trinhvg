@@ -2,7 +2,7 @@
 ![](bio.jpg)
 <!-- I'm Trinh, Ph.D. student at Korea University.
  -->
-👯 Feel free to reach out to me about reseach or anything else.
+👯 Feel free to reach out about reseach or anything else.
 
 🔭 My [[Google scholar]](https://scholar.google.ca/citations?hl=en&user=trFdwLkAAAAJ) \
 💬 Keep in touch with me on [[Twitter]](https://twitter.com/VgTimmy) \
