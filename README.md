@@ -11,7 +11,7 @@
 
 ### Challenges:
 
-- **1st** VQA task and was placed \textbf{2nd} in Action Recognition and Action Anticipation tasks in [[Trauma THOMPSO]](https://thompson-challenge.grand-challenge.org/)challenge at MICCAI2023 
+- **1st** VQA task and was placed \textbf{2nd} in Action Recognition and Action Anticipation tasks in [[Trauma THOMPSO]](https://thompson-challenge.grand-challenge.org/) challenge at MICCAI2023 
 - **3rd** in Automated Gleason Grading Challenge [[AGGC]](https://aggc22.grand-challenge.org/final-rankings/)  at MICCAI2022 
 - **19th/1327 Silver medal** in UBC Ovarian Cancer Subtype Classification and Outlier Detection [[UBC-OCEAN-2024]](https://www.kaggle.com/competitions/UBC-OCEAN/leaderboard?) 
 - 16th-F1, 25th-running time in [[CellSeg]](https://neurips22-cellseg.grand-challenge.org/testing-results/) NeurIPS22 
