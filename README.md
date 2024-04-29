@@ -9,6 +9,13 @@
 ⚡My Ph.D. is funded by "Hyundai Motor Chung Mong-Koo Global Scholarship" (2021-2025).
 
 
+\begin{itemize}
+    \textbf{1st} VQA task and was placed \textbf{2nd} in Action Recognition and Action Anticipation tasks in [[Trauma THOMPSO]](https://thompson-challenge.grand-challenge.org/)challenge at MICCAI2023 \
+    \textbf{3rd} in Automated Gleason Grading Challenge [[AGGC]]https://aggc22.grand-challenge.org/final-rankings/)  at MICCAI2022 \
+    \textbf{19th/1327} in UBC Ovarian Cancer Subtype Classification and Outlier Detection [[UBC-OCEAN-2024]](https://www.kaggle.com/competitions/UBC-OCEAN/leaderboard?) \
+    16th-F1, 25th-running time in [[CellSeg]](https://neurips22-cellseg.grand-challenge.org/testing-results/) NeurIPS22 \
+    11th in [[PAIP 2021]](https://paip2021.grand-challenge.org/Final-rank/) Challenge: Perineural Invasion in Multiple Organ Cancer \
+\end{itemize}
 <!--
 
 </br>
