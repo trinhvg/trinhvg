@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋  -->
 <!-- ![](bio.jpg) -->
-<!-- I'm Trinh, a Ph.D. student at Korea University.
- -->
+ ### Hi there 👋
+I’m Trinh. I obtained my Ph.D. in Computer Engineering from Korea University in February 2026 and my Master’s degree in Computer Science from Sejong University in 2021.
+
 👯 Feel free to reach out about research or anything else.
 
 🔭 My [[Google scholar]](https://scholar.google.ca/citations?hl=en&user=trFdwLkAAAAJ) \
