@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋  -->
-<! ![](bio.jpg)  -->
+<!-- ![](bio.jpg) -->
 <!-- I'm Trinh, a Ph.D. student at Korea University.
  -->
 👯 Feel free to reach out about research or anything else.
