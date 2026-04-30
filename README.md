@@ -2,6 +2,7 @@
 <!-- ![](bio.jpg) -->
  ### Hi there 👋
 I’m Trinh, a postdoctoral researcher at **Brigham and Women's Hospital** and **Harvard Medical School**.
+
 I obtained my Ph.D. in Computer Engineering from **Korea University** in February 2026 and my Master’s degree in Computer Science from **Sejong University** in 2021.
 
 👯 Feel free to reach out about research or anything else.
