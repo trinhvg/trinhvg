@@ -7,8 +7,7 @@ I obtained my Ph.D. in Computer Engineering from **Korea University** in Februar
 
 👯 Feel free to reach out about research or anything else.
 
-🏠 My [[Homepage]](https://trinhvg.github.io/)\
-🔭 My [[Google scholar]](https://scholar.google.ca/citations?hl=en&user=trFdwLkAAAAJ) \
+🔭 My [[Google scholar]](https://scholar.google.ca/citations?hl=en&user=trFdwLkAAAAJ) & 🏠 My [[Homepage]](https://trinhvg.github.io/)
 💬 Keep in touch with me on [[Twitter]](https://twitter.com/trinh_tl_vuong) or [[Linkedin]](https://www.linkedin.com/in/trinh-vuong-218812193/)\
 ⚡My Ph.D. is funded by "Hyundai Motor Chung Mong-Koo Global Scholarship" (2021-2025).
 
