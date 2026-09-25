@@ -6,6 +6,7 @@ I’m Trinh, a postdoctoral researcher at **Brigham and Women's Hospital**, affi
 I obtained my Ph.D. in Computer Engineering from **Korea University** in February 2026 and my Master’s degree in Computer Science from **Sejong University** in 2021.
 
 👯 Feel free to reach out about research or anything else.
+
 🏠 My [[Homepage]](https://trinhvg.github.io/)\
 🔭 My [[Google scholar]](https://scholar.google.ca/citations?hl=en&user=trFdwLkAAAAJ) \
 💬 Keep in touch with me on [[Twitter]](https://twitter.com/trinh_tl_vuong) or [[Linkedin]](https://www.linkedin.com/in/trinh-vuong-218812193/)\
